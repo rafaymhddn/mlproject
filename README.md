@@ -1,6 +1,5 @@
 ## End to End ML
 
-Set up project Github
 
 ## Repository 
 1. Set up github {Repository}
@@ -11,6 +10,5 @@ Set up project Github
 conda create -p venv python==3.8 -y
 conda activate venv/
 
-git init
 
 
