@@ -6,5 +6,6 @@ pexpect
 scikit-learn
 catboost
 xgboost
+dill
 
 #-e .
