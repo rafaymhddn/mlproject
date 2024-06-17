@@ -1,20 +1,13 @@
 ## End to End ML
-
-
-## Repository 
-1. Set up github {Repository}
-   1. new environment
-   2. setup.py
-   3. requirements.txt
-
-conda create -p venv python==3.8 -y
-conda activate venv/
-
-2. Source folder & build package
-   1. setup.py
-   2. requirements.txt
-   3. src/__init__.py
-
-# Logging and Error Handling
+## ToDo
+1. Environement
+2. Setup structure
+3. Dataset
+4. Excenption and Logger
+5. Components - data ingestion, transformation, model trainer
+6. Pipeline - prediction, training pipeline
+7. Web app + Prediction Pipeline
+8. ECR AWS CI/CD
+9. Docker CI/CD ECR EC2 AWS 
 
 
